@@ -4,6 +4,8 @@ public class EmpDto {
 
 	private int empId;
 	private String name;
+	
+		
 	public int getEmpId() {
 		return empId;
 	}
